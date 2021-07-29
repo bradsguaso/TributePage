@@ -1,0 +1,20 @@
+
+#main {
+    padding: 20px;
+    background-color: cornsilk;
+}
+
+#img-div {
+    background-color: white;
+    padding: 50px;
+}
+
+.resp-img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+li {
+    margin: 20px;
+}
